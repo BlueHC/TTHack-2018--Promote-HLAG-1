@@ -6,11 +6,20 @@ Alex Galach
 Jan Dirksen 
 
 
-## Im Repository befindet sich kein Code, nur Präsentation und Filme bzw. die Filme waren zu groß für GitHub (> 25 MB), deshalb hier nur als kleine Versionen.
-
 Präsentation hier als pdf
 
 https://github.com/BlueHC/TTHack-2018--Promote-HLAG-1/blob/master/Hapag-Lloyd-PR-VR.pdf
+
+
+Die Videos sind in bester Qualität per USB-Stick an Paul übergeben worden
+
+Videos (in schlechter Qualität) hier:
+
+https://github.com/BlueHC/TTHack-2018--Promote-HLAG-1/blob/master/HL-ContainerPortVR.m4v
+
+https://github.com/BlueHC/TTHack-2018--Promote-HLAG-1/blob/master/HL-VRContainerGame.m4v
+
+
 
 
 
