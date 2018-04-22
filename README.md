@@ -1,12 +1,12 @@
-# TTHack-2018--Promote-HLAG-1
+
 # Hapag-Lloyd VR-Container-"Tetris
 
-Alex Galach
+## Alex Galach
 
-Jan Dirksen 
+## Jan Dirksen 
 
 
-Präsentation hier als pdf
+* Präsentation hier als pdf
 
 https://github.com/BlueHC/TTHack-2018--Promote-HLAG-1/blob/master/Hapag-Lloyd-PR-VR.pdf
 
