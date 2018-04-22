@@ -1,13 +1,14 @@
 # TTHack-2018--Promote-HLAG-1
+# Hapag-Lloyd VR-Container-"Tetris
 
-## Im Repository befindet sich kein Code.
+## Im Repository befindet sich kein Code, nur Präsentation und Filme
 
-Jan +49 163 2705759 - Ich bin gegen 9:30h da (am Sonntag)
+Alex Galach
+Jan Dirksen 
 
-Alex ?
+22.04.2018
 
 
-Hapag-Lloyd orange #FF6600
 
 
 
