@@ -8,7 +8,9 @@ Jan Dirksen
 
 ## Im Repository befindet sich kein Code, nur Präsentation und Filme bzw. die Filme waren zu groß für GitHub (> 25 MB), deshalb hier nur als kleine Versionen.
 
-Konzeptoutline im Ordner Hapag-Lloyd Ouline
+Präsentation hier als pdf
+
+https://github.com/BlueHC/TTHack-2018--Promote-HLAG-1/blob/master/Hapag-Lloyd-PR-VR.pdf
 
 
 
